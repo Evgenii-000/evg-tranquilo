@@ -1,6 +1,6 @@
 {
-  "name": "Tower Defense Game",
-  "short_name": "TD Game",
+  "name": "Synth Wave Defense",
+  "short_name": "Synth Wave TD",
   "start_url": "./index.html",
   "display": "fullscreen",
   "orientation": "portrait",
